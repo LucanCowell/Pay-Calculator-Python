@@ -12,3 +12,7 @@ The system makes sure to consider for breaks that may be taken and deducts the p
 There is also tax included on any pay that is over $350 in week and is taxed at a 16% rate. This may cause results to differ due to the varying tax rates. Net Pay is calculated as money kepts after tax, while total (gross) pay is the entirity of the pay before tax.
 
 This calculator is able to solve the problem of faulty pay and is able to receive the general idea of the pay expected for a specific amount of hours at your own personal pay rate.
+
+In future, this application will include the ability to store the calculated pay, so that the user is able to compare current pays to previous ones, to give a potential outline of their overall trend for earnings.
+
+This data could be used to create graphs and visual displays of said trends, improving the user experience and offering more capabilities for the benefit of the user.
